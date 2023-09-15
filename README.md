@@ -1,13 +1,17 @@
-<h1>Hallo 💻</h1>
+<h1>Hallo 💻<img align="center" height="100em" width:"100%"   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5wMHplYjRpMXY3N29vZ24zY2h1ZjJqeTl4cmUweWQ5c2NrcmIxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1z/mXbQ2IU02cGRhBO2ye/giphy.gif"/></h1>
+
 </br>
+<!-- Markdown -->
+
+
 <div>
+   
   <a href="https://github.com/reistence">
    <img align="center" height="150em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=reistence&hide_border=true&layout=compact&langs_count=10&theme=gotham&show_icons=true"/>
    <img align="center"  height="150em"  src="https://github-readme-stats.vercel.app/api?username=reistence&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&hide=issues"/>
   
   
 </div>
- 
   
 </br>
 
@@ -29,3 +33,6 @@
      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
   </a>
 </div>
+<br/>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham)
