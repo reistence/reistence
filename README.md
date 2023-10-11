@@ -8,7 +8,8 @@
    
   <a href="https://github.com/reistence">
    <img align="center" height="150em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=reistence&hide_border=true&layout=compact&langs_count=10&theme=gotham&show_icons=true"/>
-   <img align="center"  height="150em"  src="https://github-readme-stats.vercel.app/api?username=reistence&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&hide=issues"/>
+
+     <img align="center"  height="150em"  src="https://github-readme-stats.vercel.app/api?username=reistence&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&hide=issues"/>
   
   
 </div>
@@ -35,4 +36,4 @@
 </div>
 <br/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham) -->
