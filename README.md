@@ -23,7 +23,9 @@
 
 </br> 
 <div>
- <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reistence&hide_border=true&layout=compact&langs_count=10&theme=gotham&show_icons=true"/> 
+
+ <!--  
+ <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reistence&hide_border=true&layout=compact&langs_count=10&theme=gotham&show_icons=true"/>  -->
    
 </div>
  </br>
