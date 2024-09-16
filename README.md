@@ -19,7 +19,11 @@
    
 </div>
  </br>
- <div>
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham)
+
+
 <h4>Contacts</h4>
 <div> 
    <span margin-right="1em">
@@ -37,8 +41,3 @@
 
    
 </div>
-    
- </div>
-<br/>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham)
