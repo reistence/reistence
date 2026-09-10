@@ -13,6 +13,11 @@ on:
     branches:
       - main
 
+# only one run at a time: concurrent runs race on pushing the output branch
+concurrency:
+  group: snake-animation
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
