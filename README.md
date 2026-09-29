@@ -1,6 +1,7 @@
 ## Valerio Gunter Lamberti
 
 **Frontend Developer · UI Engineering & Interactive 3D** — Milan, Italy
+
 Currently at Design Group Italia (part of Alkemy)
 
 3+ years building production frontends for international brands across fashion, automotive,
