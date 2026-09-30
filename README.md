@@ -17,7 +17,7 @@ Mostly Nuxt/Vue and Next/React, with Three.js when a page needs to do more than 
 - **Design systems** — component libraries documented in Storybook and shared across brands as
   reusable layers.
 
-Portfolio: **[reistence.netlify.app](https://reistence.netlify.app)** — built as a real-time WebGL scene.
+Portfolio: **[reistence.dev](https://reistence.dev)** — built as a real-time WebGL scene.
 
 ### Stack
 
