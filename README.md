@@ -24,8 +24,8 @@ Portfolio: **[reistence.dev](https://reistence.dev)** — built as a real-time W
 | | |
 | --- | --- |
 | **Core** | TypeScript · JavaScript · HTML · CSS / Sass |
-| **Frameworks** | Vue 3 · Nuxt 3/4 · React · Next.js · Astro · React Native |
-| **3D & motion** | Three.js · TresJS · React Three Fiber · WebGL · GLSL · GSAP · Lenis · Blender |
+| **Frameworks** | Vue 2/3 · Nuxt 3/4 · React · Next.js · Astro · React Native |
+| **3D & motion** | Three.js · TresJS · React Three Fiber · WebGL · GLSL · GSAP · Lenis · Blender · PixiJS · Motion |
 | **Platforms** | Contentful · Storyblok · Amplience · Yext · Algolia · Elasticsearch · Auth0 |
 | **Tooling** | Vite · Storybook · Vitest · Playwright · Tailwind · Netlify · Module Federation |
 
